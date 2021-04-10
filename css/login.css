@@ -1,0 +1,74 @@
+#header
+{
+	background-color:DodgerBlue;
+	//border: 3px solid #73AD21;
+	text-align: center;
+	vertical-align: middle;
+	letter-spacing: 3px;
+	word-spacing: 10px;
+	//text-shadow: 3px 2px red;
+	height: 100px;
+	width: 100%;
+	font-size: 50px;
+	
+	
+}
+
+p
+{
+	text-align: center;
+	//vertical-align: middle;
+	letter-spacing: 3px;
+	word-spacing: 10px;
+	//text-shadow: 3px 2px white;
+	
+	font-size: 20px;
+	
+	
+}
+
+#logo  {
+float: left;    
+ //margin: 0 0 0 15px;
+}
+
+
+	
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+input[type=text], select {
+  width: 15%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 12%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
